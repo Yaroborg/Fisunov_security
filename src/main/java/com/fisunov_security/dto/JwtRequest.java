@@ -1,4 +1,4 @@
-package com.fisunov_security.dao;
+package com.fisunov_security.dto;
 
 import lombok.Data;
 
